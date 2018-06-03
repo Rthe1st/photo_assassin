@@ -1,5 +1,6 @@
-# photo_assassin
+# Photo Assassin
 A pervasive (i.e. walk around and do stuff) game inspired by [Schniper](http://ludocity.org/wiki/Schniper)
+
 I'm sure this variant must exist somehwere already.
 
 The game is played over a decent sized space with players attempting to "snipe" each other by taking photos.
@@ -9,14 +10,23 @@ The game is played over a decent sized space with players attempting to "snipe" 
 * An area with lots of cover. Could be a  park, indoor space like a museum or a set of streets.
 * Each person needs a phone and the ability to send photos to a group chat. I'm planning to use whatsapp
 
-## Rules
-* Each player is given another player as a unique target.
+## Play
+* Have all players meet at a starting point
+* Created a group chat with all the players in it
+* Post where players are allowed to go (i.e. "Don't leave the park")
+* Post the initial list of each players target. Each player must have 1 target and the list should loop through all players.
 
-The list of players inital targets is public.
+So by repeatdly following each targets target, you go through every player and get back to the initial target.
 
-Every player has a different target.
+* Post the time limit for the game.
+* Let the players disperse. Targets can't be sniped for X minutes.
+* Players now snipe each other, posting their snipe photos to the group chat.
+* Game ends when a player has sniped everyone or the time limit is up
 
+## Sniping Rules
 * To "snipe" their target, players must take a photo of them and post it to the group chat immediately.
+* You can only snipe your current target
+* Photos of 
 * Their next target is the current target of their victim.
 
 The target keeps playing as normal
@@ -24,7 +34,7 @@ The target keeps playing as normal
 * Players mustn't leave the play zone (park, building, etc)
 * Everyone one starts at the same place. Players have X minutes to disperse before sniping is allowed.
 
-# Clarification
+## Clarifications
 * Photos should be posted as soon as they are taken, because this helps give away their position.
 Hard to enforce though.
 * Players can talk to each other, work together, snitch on each others positions, etc.
